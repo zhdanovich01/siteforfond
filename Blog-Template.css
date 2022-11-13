@@ -1,0 +1,257 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1084px;
+}
+
+.u-section-1 .u-blog-1 {
+  margin-top: 83px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px);
+  grid-gap: 10px 10px;
+  min-height: 264px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 140px;
+  margin: 0 1px 0 0;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 126px;
+  margin-top: -2px;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1rem;
+  margin: 8px 1px 0 15px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  background-image: none;
+  padding: 30px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 0 30px;
+}
+
+.u-section-1 .u-image-2 {
+  height: 140px;
+  margin: 0 1px 0 0;
+}
+
+.u-section-1 .u-group-2 {
+  min-height: 126px;
+  margin-top: -2px;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  margin: 8px 1px 0 15px;
+}
+
+.u-section-1 .u-container-layout-6 {
+  background-image: none;
+  padding: 30px;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 0 30px;
+}
+
+.u-section-1 .u-image-3 {
+  height: 140px;
+  margin: 0 1px 0 0;
+}
+
+.u-section-1 .u-group-3 {
+  min-height: 126px;
+  margin-top: -2px;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-1 .u-container-layout-8 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1rem;
+  margin: 8px 1px 0 15px;
+}
+
+.u-section-1 .u-container-layout-9 {
+  padding: 30px;
+}
+
+.u-section-1 .u-container-layout-10 {
+  padding: 0 30px;
+}
+
+.u-section-1 .u-image-4 {
+  height: 140px;
+  background-image: url("images/2022-11-03_00-38-27.png");
+  background-position: 50% 50%;
+  margin: 0 1px 0 0;
+}
+
+.u-section-1 .u-group-4 {
+  min-height: 126px;
+  margin-top: -2px;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-1 .u-container-layout-11 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1rem;
+  margin: 8px 1px 0 15px;
+}
+
+.u-section-1 .u-container-layout-12 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-blog-1 {
+    min-height: 375px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 216px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-3 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-4 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+    min-height: 684px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-9 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-12 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
