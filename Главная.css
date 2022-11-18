@@ -1197,7 +1197,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 922px;
+    min-height: 942px;
   }
 
   .u-section-2 .u-text-1 {
@@ -1206,7 +1206,7 @@
 
   .u-section-2 .u-list-1 {
     width: 340px;
-    margin-bottom: 0;
+    margin-bottom: 20px;
   }
 
   .u-section-2 .u-group-1 {
@@ -2144,7 +2144,7 @@
 }
 
 .u-section-3 .u-layout-wrap-5 {
-  width: 436px;
+  width: 340px;
   margin: 0 auto;
 }
 
@@ -2880,13 +2880,13 @@
   }
 
   .u-section-3 .u-btn-9 {
-    margin-top: -30px;
+    margin-top: 591px;
     margin-bottom: 0;
   }
 
   .u-section-3 .u-slider-2 {
     min-height: 557px;
-    margin-top: -619px;
+    margin-top: -621px;
     margin-bottom: 60px;
   }
 
@@ -3302,6 +3302,10 @@
     margin-left: auto;
   }
 
+  .u-section-3 .u-btn-9 {
+    margin-top: 573px;
+  }
+
   .u-section-3 .u-image-9 {
     min-height: 764px;
   }
@@ -3318,8 +3322,16 @@
     min-height: 814px;
   }
 
+  .u-section-3 .u-slider-3 {
+    margin-top: -585px;
+  }
+
+  .u-section-3 .u-layout-wrap-5 {
+    width: 436px;
+  }
+
   .u-section-3 .u-image-13 {
-    min-height: 504px;
+    min-height: 497px;
   }
 
   .u-section-3 .u-custom-html-17 {
@@ -3380,8 +3392,8 @@
     height: 43px;
     left: auto;
     position: absolute;
-    right: -48px;
     top: 0;
+    right: -47px;
     padding: 12px;
   }
 }
@@ -3463,7 +3475,7 @@
   }
 
   .u-section-3 .u-btn-9 {
-    margin-top: -77px;
+    margin-top: 552px;
   }
 
   .u-section-3 .u-image-9 {
@@ -3540,7 +3552,7 @@
 
   .u-section-3 .u-slider-3 {
     min-height: 487px;
-    margin-top: -562px;
+    margin-top: -569px;
   }
 
   .u-section-3 .u-layout-wrap-5 {
@@ -5328,7 +5340,7 @@
 
 @media (max-width: 767px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 556px;
+    min-height: 604px;
   }
 
   .u-section-4 .u-text-1 {
@@ -5375,7 +5387,7 @@
   }
 
   .u-section-4 .u-btn-9 {
-    margin-top: 394px;
+    margin-top: 448px;
   }
 
   .u-section-4 .u-blog-2 {
@@ -5419,13 +5431,8 @@
     height: 87px;
   }
 
-  .u-section-4 .u-blog-3 {
-    margin-top: -403px;
-    margin-left: initial;
-  }
-
   .u-section-4 .u-repeater-3 {
-    min-height: 329px;
+    min-height: 282px;
   }
 
   .u-section-4 .u-group-17 {
